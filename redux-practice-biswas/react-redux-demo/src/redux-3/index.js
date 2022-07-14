@@ -1,0 +1,1 @@
+export { buyCookie } from './cookie/cookieAction'
